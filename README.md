@@ -8,4 +8,5 @@ void free(void *ptr);
 It has some mutex lock and thread_t variable to make this library thread-safe.
 
 `make`
+
 `./program_name`
